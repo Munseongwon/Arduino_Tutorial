@@ -1,4 +1,4 @@
-# Aruino_Tutorial
+# Arduino_Tutorial
 ### 2022 IoT Class TIL for SmartHome Project
 <img src='식물성장조건감지시스템(윗면도).png' alt='mainScreen' width="1280px" height="500px"/>
 
